@@ -1,0 +1,1 @@
+docker run -d --hostname my-rabbitmq --name my-rabbitmq rabbitmq:3.9
